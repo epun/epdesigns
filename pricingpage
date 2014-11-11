@@ -1,0 +1,43 @@
+function OrderFormController($scope){
+
+
+	$scope.services = [
+		{
+			name: 'Web Development',
+			price: 400,
+			active:true
+		},{
+			name: 'UX/UI Design',
+			price: 600,
+			active:false
+		},{
+			name: 'Branding',
+			price: 240,
+			active:false
+		},{
+			name: 'Graphic Design',
+			price: 150,
+			active:false
+		}
+	];
+
+	$scope.toggleActive = function(s){
+		s.active = !s.active;
+	};
+
+
+	$scope.total = function(){
+
+		var total = 0;
+
+
+
+		angular.forEach($scope.services, function(s){
+			if (s.active){
+				total+= s.price;
+			}
+		});
+
+		return total;
+	};
+}
