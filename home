@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+ <head>
+
+  <script type="text/javascript">
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "jquery.watch.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "museredirect.js", "index.css"], "outOfDate":[]};
+</script>
+  
+  <script src="scripts/museredirect.js?490478987" type="text/javascript"></script>
+  
+  <script type="text/javascript">
+   Muse.Redirect.redirect('desktop', '', 'phone/index.html', '');
+</script>
+  
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="generator" content="2014.2.0.284"/>
+  <title>Evan Pun Designs</title>
+  <link media="only screen and (max-device-width: 370px)" rel="alternate" href="http://www.evanpun.com/phone/index.html"/>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?4087801617"/>
+  <link rel="stylesheet" type="text/css" href="css/master_connect.css?3966319014"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?4087887763" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   document.documentElement.className += ' js';
+</script>
+   </head>
+ <body>
+
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="position_content" id="page_position_content">
+    <a class="anchor_item colelem" id="top"></a>
+    <div class="clearfix colelem" id="u3744-3"><!-- content -->
+     <p>&nbsp;</p>
+    </div>
+    <div class="SlideShowWidget clearfix colelem" id="slideshowu800"><!-- none box -->
+     <div class="popup_anchor" id="u801popup">
+      <div class="SlideShowContentPanel clearfix" id="u801"><!-- stack box -->
+       <div class="SSSlide clip_frame grpelem" id="u804"><!-- image -->
+        <!-- m_editable region-id="editable-static-tag-U804" template="index.html" data-type="image" data-ice-options="srcAttr=data-src" -->
+        <img class="ImageInclude" id="u804_img" data-src="images/img_1222.jpg" src="images/blank.gif" alt="" data-width="1160" data-height="870" data-muse-uid="U804" data-muse-src="images/img_1222.jpg"/>
+<!-- /m_editable -->
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u868"><!-- image -->
+        <!-- m_editable region-id="editable-static-tag-U868" template="index.html" data-type="image" data-ice-options="srcAttr=data-src" -->
+        <img class="ImageInclude" id="u868_img" data-src="images/gopr0090.jpg" src="images/blank.gif" alt="" data-width="1160" data-height="870" data-muse-uid="U868" data-muse-src="images/gopr0090.jpg"/>
+<!-- /m_editable -->
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u886"><!-- image -->
+        <!-- m_editable region-id="editable-static-tag-U886" template="index.html" data-type="image" data-ice-options="srcAttr=data-src" -->
+        <img class="ImageInclude" id="u886_img" data-src="images/gopr0315.jpg" src="images/blank.gif" alt="" data-width="1160" data-height="870" data-muse-uid="U886" data-muse-src="images/gopr0315.jpg"/>
+<!-- /m_editable -->
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="browser_width" id="u3758-bw">
+     <div class="pinned-colelem" id="u3758"><!-- simple frame --></div>
+    </div>
+    <div class="clearfix pinned-colelem" id="u3759-4"><!-- content -->
+     <p>E</p>
+    </div>
+    <a class="nonblock nontext Button anim_swing clearfix pinned-colelem" id="buttonu3754" href="index.html#top"><!-- container box --><img class="grpelem" id="u3755" alt="HOME" src="images/blank.gif"/><!-- state-based BG images --></a>
+    <a class="nonblock nontext Button anim_swing clearfix pinned-colelem" id="buttonu3756" href="index.html#story"><!-- container box --><img class="grpelem" id="u3757" alt="STORY" src="images/blank.gif"/><!-- state-based BG images --></a>
+    <a class="nonblock nontext Button anim_swing clearfix pinned-colelem" id="buttonu3760" href="index.html#services"><!-- container box --><img class="grpelem" id="u3761" alt="SERVICES" src="images/blank.gif"/><!-- state-based BG images --></a>
+    <a class="nonblock nontext Button anim_swing clearfix pinned-colelem" id="buttonu3752" href="index.html#work"><!-- container box --><img class="grpelem" id="u3753" alt="WORKS" src="images/blank.gif"/><!-- state-based BG images --></a>
+    <a class="nonblock nontext Button clearfix pinned-colelem" id="buttonu3750" href="contact.html"><!-- container box --><img class="grpelem" id="u3751" alt="CONTACT" src="images/blank.gif"/><!-- state-based BG images --></a>
+    <div class="clearfix pinned-colelem" id="u3762-4"><!-- content -->
+     <p>P</p>
+    </div>
+    <div class="browser_width colelem" id="u3745-bw">
+     <div id="u3745"><!-- simple frame --></div>
+    </div>
+    <div class="clearfix colelem" id="u2817"><!-- group -->
+     <img class="ose_pre_init grpelem" id="u1365-5" alt="Evan Pun
+" width="203" height="94" src="images/u1365-5.png"/><!-- rasterized frame -->
+     <img class="grpelem" id="u1366-5" alt="health | tech | design
+" width="321" height="79" src="images/u1366-5.png"/><!-- rasterized frame -->
+    </div>
+    <div class="Button clearfix colelem" id="buttonu919"><!-- container box -->
+     <img class="grpelem" id="u921-4" alt="Hi!" width="119" height="36" src="images/u921-4.png"/><!-- rasterized frame -->
+    </div>
+    <img class="colelem" id="u3770-4" alt="I'm a UX &amp; UI Designer based in Austin, TX" width="554" height="54" src="images/u3770-4.png"/><!-- rasterized frame -->
+    <img class="colelem" id="u1386-4" alt="My vision is to create clean and high quality content that is easy to use. " width="700" height="154" src="images/u1386-4.png"/><!-- rasterized frame -->
+    <a class="anchor_item colelem" id="story"></a>
+    <div class="clearfix colelem" id="pu1425"><!-- group -->
+     <div class="browser_width grpelem" id="u1425-bw">
+      <div id="u1425"><!-- group -->
+       <div class="clearfix" id="u1425_align_to_page">
+        <div class="clearfix grpelem" id="pu1438"><!-- column -->
+         <a class="nonblock nontext museBGSize colelem" id="u1438" href="dungeons---diabetes.html"><!-- simple frame --></a>
+         <a class="nonblock nontext museBGSize colelem" id="u1497" href="travel-poster.html"><!-- simple frame --></a>
+        </div>
+        <div class="clearfix grpelem" id="pu1426"><!-- column -->
+         <a class="nonblock nontext museBGSize colelem" id="u1426" href="root-mda.html"><!-- simple frame --></a>
+         <a class="nonblock nontext museBGSize colelem" id="u3908" href="foodie.html"><!-- simple frame --></a>
+         <a class="nonblock nontext museBGSize colelem" id="u2889" href="harvey-fineburg-remix.html"><!-- simple frame --></a>
+        </div>
+        <div class="clearfix grpelem" id="pu1450"><!-- column -->
+         <a class="nonblock nontext museBGSize colelem" id="u1450" href="light-and-salt.html"><!-- simple frame --></a>
+         <a class="nonblock nontext museBGSize colelem" id="u1462" href="just-wing-it.html"><!-- simple frame --></a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <img class="svg grpelem" id="u1397" src="images/phoe%202%20white.svg" width="474" height="660" alt="" data-mu-svgfallback="images/phoe%202%20white_poster_.png"/><!-- svg -->
+     <img class="svg grpelem" id="u1407" src="images/lightbulb%20red.svg" width="146" height="146" alt="" data-mu-svgfallback="images/lightbulb%20red_poster_.png"/><!-- svg -->
+     <img class="svg grpelem" id="u1412" src="images/drafting%20compass%20red.svg" width="269" height="157" alt="" data-mu-svgfallback="images/drafting%20compass%20red_poster_.png"/><!-- svg -->
+     <img class="grpelem" id="u1418-8" alt="Conceptualization
+Market Research
+Branding " width="242" height="108" src="images/u1418-8.png"/><!-- rasterized frame -->
+     <img class="grpelem" id="u1419-8" alt="Mock Ups
+Wireframing
+Usability Testing" width="242" height="108" src="images/u1419-8.png"/><!-- rasterized frame -->
+     <img class="grpelem" id="u1420-9" alt="User Interface Design
+Web Design
+Graphic Design
+" width="242" height="116" src="images/u1420-9.png"/><!-- rasterized frame -->
+     <div class="grpelem" id="u1422"><!-- simple frame --></div>
+     <div class="Button clearfix grpelem" id="buttonu1423"><!-- container box -->
+      <img class="grpelem" id="u1424" alt="WORKS" src="images/blank.gif"/><!-- state-based BG images -->
+     </div>
+     <a class="anchor_item grpelem" id="work"></a>
+     <div class="Button clearfix grpelem" id="buttonu2482"><!-- container box -->
+      <img class="grpelem" id="u2483-4" alt="SERVICES" width="199" height="36" src="images/u2483-4.png"/><!-- rasterized frame -->
+     </div>
+     <div class="browser_width grpelem" id="u2484-bw">
+      <div id="u2484"><!-- group -->
+       <div class="clearfix" id="u2484_align_to_page">
+        <div class="clearfix grpelem" id="pbuttonu2485"><!-- column -->
+         <div class="Button clearfix colelem" id="buttonu2485"><!-- container box -->
+          <img class="grpelem" id="u2486-4" alt="MY STORY" width="213" height="36" src="images/u2486-4.png"/><!-- rasterized frame -->
+         </div>
+         <img class="colelem" id="u2487-9" alt="Why health, tech, &amp; design? I have a background in Kinesiology with a focus in the health professions. I am passionate about design, innovative technologies, and improving healthcare. " width="647" height="338" src="images/u2487-9.png"/><!-- rasterized frame -->
+        </div>
+        <div class="museBGSize grpelem" id="u2488"><!-- simple frame --></div>
+       </div>
+      </div>
+     </div>
+     <a class="anchor_item grpelem" id="services"></a>
+    </div>
+    <div class="verticalspacer"></div>
+    <div class="browser_width colelem" id="u3740-bw">
+     <div id="u3740"><!-- group -->
+      <div class="clearfix" id="u3740_align_to_page">
+       <div class="grpelem" id="u3775"><!-- custom html -->
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55790322-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</div>
+       <a class="nonblock nontext museBGSize grpelem" id="u3737" href="https://plus.google.com/109599803176274784879/posts/p/pub"><!-- simple frame --></a>
+       <div class="clearfix grpelem" id="pbuttonu3765"><!-- column -->
+        <a class="nonblock nontext Button clearfix colelem" id="buttonu3765" href="assets/evan-pun-s-resume-2.pdf"><!-- container box --><img class="colelem" id="u3766-4" alt="RÉSUMÉ" width="199" height="36" src="images/u3766-4.png"/><!-- rasterized frame --><div class="colelem" id="u3767" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=-1,M12=0,M21=0,M22=-1,SizingMethod='auto expand')" data-mu-ie-matrix-dx="0" data-mu-ie-matrix-dy="0"><!-- rasterized frame --><img id="u3767_img" alt="" width="47" height="45" src="images/fill%2011-u3767.png"/></div></a>
+        <div class="clearfix colelem" id="pu3736"><!-- group -->
+         <a class="nonblock nontext museBGSize grpelem" id="u3736" href="http://www.linkedin.com/pub/evan-pun/56/290/621"><!-- simple frame --></a>
+         <a class="nonblock nontext museBGSize grpelem" id="u3735" href="https://www.behance.net/epun"><!-- simple frame --></a>
+         <a class="nonblock nontext museBGSize grpelem" id="u3738" href="https://twitter.com/Evanpun"><!-- simple frame --></a>
+        </div>
+       </div>
+       <a class="nonblock nontext museBGSize grpelem" id="u3739" href="http://www.pinterest.com/evanpun/"><!-- simple frame --></a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="images/u3755-r.png" alt=""/>
+   <img class="preload" src="images/u3757-r.png" alt=""/>
+   <img class="preload" src="images/u3761-r.png" alt=""/>
+   <img class="preload" src="images/u3753-r.png" alt=""/>
+   <img class="preload" src="images/u3751-r.png" alt=""/>
+   <img class="preload" src="images/dungeons%20-%20diabetes-u3585-r-fr.jpg" alt=""/>
+   <img class="preload" src="images/never%20stop%20button%20-u3587-r-fr.jpg" alt=""/>
+   <img class="preload" src="images/tap%20log%20in%20page-u3586-r-fr.png" alt=""/>
+   <img class="preload" src="images/foodie%20button%201-u3932-r-fr.jpg" alt=""/>
+   <img class="preload" src="images/harvey%20finberg%20button-u3589-r-fr.jpg" alt=""/>
+   <img class="preload" src="images/light%20and%20salt%20logo-u3588-r-fr.png" alt=""/>
+   <img class="preload" src="images/just%20wing%20it%20button-u3490-r-fr.jpg" alt=""/>
+   <img class="preload" src="images/u1424-r.png" alt=""/>
+   <img class="preload" src="images/google%20button-u3611-r-fr.png" alt=""/>
+   <img class="preload" src="images/linkedin%20button-u3612-r-fr.png" alt=""/>
+   <img class="preload" src="images/behance%20button-u3613-r-fr.png" alt=""/>
+   <img class="preload" src="images/twitter%20button-u3614-r-fr.png" alt=""/>
+   <img class="preload" src="images/pinterest%20buttton-u3615-r-fr.png" alt=""/>
+  </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script src="scripts/museutils.js?4050293121" type="text/javascript"></script>
+  <script src="scripts/webpro.js?140723489" type="text/javascript"></script>
+  <script src="scripts/musewpslideshow.js?4170221289" type="text/javascript"></script>
+  <script src="scripts/jquery.museoverlay.js?439400757" type="text/javascript"></script>
+  <script src="scripts/touchswipe.js?321465556" type="text/javascript"></script>
+  <script src="scripts/jquery.watch.js?3946357177" type="text/javascript"></script>
+  <script src="scripts/jquery.scrolleffects.js?398671634" type="text/javascript"></script>
+  <script src="scripts/jquery.musepolyfill.bgsize.js?84270510" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   $(document).ready(function() { try {
+(function(){var a={},b=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),16);return 0};(function(){$('link[type="text/css"]').each(function(){var b=($(this).attr("href")||"").match(/\/?css\/([\w\-]+\.css)\?(\d+)/);b&&b[1]&&b[2]&&(a[b[1]]=b[2])})})();(function(){$("body").append('<div class="version" style="display:none; width:1px; height:1px;"></div>');
+for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.required[d],g=f.match(/([\w\-\.]+)\.(\w+)$/),k=g&&g[1]?g[1]:null,g=g&&g[2]?g[2]:null;switch(g.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");c.addClass(k);var g=b(c.css("color")),h=b(c.css("background-color"));g!=0||h!=0?(Muse.assets.required.splice(d,1),"undefined"!=typeof a[f]&&(g!=a[f]>>>24||h!=(a[f]&16777215))&&Muse.assets.outOfDate.push(f)):d++;c.removeClass(k);break;case "js":k.match(/^jquery-[\d\.]+/gi)&&
+typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.initWidget('#slideshowu800', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {heroFitting:'fillFrameProportionally',autoPlay:true,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'horizontal',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:3000,enableSwipe:true,elastic:'fullWidth',resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:true})); });/* #slideshowu800 */
+Muse.Utils.resizeHeight()/* resize height */
+$('#u1365-5').registerOpacityScrollEffect([{"fade":100155.725,"opacity":0,"in":[-Infinity,76.73]},{"opacity":100,"in":[76.73,76.73]},{"fade":50,"opacity":0,"in":[76.73,Infinity]}]);/* scroll effect */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+} catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
+</script>
+   </body>
+</html>
